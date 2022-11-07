@@ -14,6 +14,7 @@ void hapus_buffer();
 void kalkulator(int pilihan);
 double input();
 void reset();
+sleep(1);
 
 double tambah(double angka1, double angka2)
 {
